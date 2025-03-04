@@ -2,6 +2,10 @@
 
 namespace Database\Seeders;
 
+use App\Models\Condition;
+use App\Models\Part;
+use App\Models\Supplier;
+use App\Models\SupplierPart;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
